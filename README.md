@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/121282231?v=4" alt="robotika smkn1 kotabekasi logo"/>
+  <img src="https://i.postimg.cc/vTY3Mjpb/logo.png" alt="robotika smkn1 kotabekasi logo"/>
 </p>
 
 
@@ -40,12 +40,26 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 # :moneybag: [Donate](https://saweria.co/arthasyarif)
 
 
+# :mag: Ilustrasi Arduino
+
+<p align="center">
+  <img src="####" style="height:205px;" "width:205px;"/>
+</p>
+
+
 # :clipboard: Source Code
 
 ```bash
 
-//BY PROJECT ARTHA S.A
-//SMKN1 KOTA BEKASI
+/*
+ * 
+ * All the resources for this project: smkn1kotabekasi.sch.id
+ * Modified by Robotika smkn1 kotabekasi
+ * 
+ * Created by Robotika smkn1 kotabekasi
+ * 
+ */
+ 
 int Bulb = 5;
 int PIR = 3;
 int val = 0;
